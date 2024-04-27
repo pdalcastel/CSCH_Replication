@@ -1,0 +1,3 @@
+stem cell,pressure,decreases,cycle entry,0,1,10,0
+cancer,pressure,decreases,cycle entry,0,1,10,0
+cancer,custom:generation_count,increases,apoptosis,1e6,1,100,0
